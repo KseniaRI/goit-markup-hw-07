@@ -1,0 +1,26 @@
+.subscribe-form {
+  margin-left: auto;
+
+  .subscribe-form__field {
+    display: flex;
+  }
+}
+
+.subscribe-form__input {
+  width: 358px;
+  padding-left: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: $border-radius;
+  background-color: transparent;
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: 0.03em;
+  color: $trasparent-white-color;
+
+  &::placeholder {
+    font-size: 16px;
+    line-height: 1.25;
+    letter-spacing: 0.03em;
+    color: $trasparent-white-color;
+  }
+}
