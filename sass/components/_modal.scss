@@ -192,7 +192,7 @@
 
   .contact-form__check-input:checked ~ & {
     background-color: $accent-color;
-    background-image: url(../images/svg/check.svg);
+    background-image: url('../images/svg/check.svg');
     background-size: contain;
     background-position: center;
     background-origin: border-box;
