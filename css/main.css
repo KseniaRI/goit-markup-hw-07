@@ -481,7 +481,7 @@ img {
 
 .contact-form__check-input:checked ~ .contact-form__check-box {
   background-color: #2196f3;
-  background-image: url(../../images/hero.jpg);
+  background-image: url(../images/svg/check.svg);
   background-size: contain;
   background-position: center;
   background-origin: border-box;
